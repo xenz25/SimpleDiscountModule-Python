@@ -6,10 +6,10 @@ This project was created as a capstone project for my Object Oriented Programmin
 
 You can check the documentation on how to use it.
 
-Developers:
-Project Leader: CATACUTAN, ZIAN JOLO M.
-Members: 
-PASCUAL, STEVEN ROD C.
-CABUHAT, LAURENT SJ
-VENERACION, JOHN ELBERT C.
+# Developers:
+- Project Leader: CATACUTAN, ZIAN JOLO M.
+- Members: 
+- PASCUAL, STEVEN ROD C.
+- CABUHAT, LAURENT SJ
+- VENERACION, JOHN ELBERT C.
 
