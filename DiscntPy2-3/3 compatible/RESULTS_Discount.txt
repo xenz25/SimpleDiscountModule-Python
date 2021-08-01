@@ -1,0 +1,95 @@
+Computation 2
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1234
+Proceed = 0
+Discount or Bank Discount or Interest = 22.715
+Discount Rate = 0
+Time in Days = 90
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1234
+Proceed = 1211.285
+Discount or Bank Discount or Interest = 22.715
+Discount Rate = 0.0736
+Time in years = 0.25
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 0
+Discount or Bank Discount or Interest = 0
+Discount Rate = 7
+Time in Days = 90
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 1275.285
+Discount or Bank Discount or Interest = 22.715
+Discount Rate = 0.07
+Time in years = 0.25
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 0
+Discount or Bank Discount or Interest = 0
+Discount Rate = 7
+Time in Days = 90
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 1275.285
+Discount or Bank Discount or Interest = 22.715
+Discount Rate = 0.07
+Time in years = 0.25
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 0
+Discount or Bank Discount or Interest = 0
+Discount Rate = 7
+Time in Days = 90
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 1275.285
+Discount or Bank Discount or Interest = 22.715
+Discount Rate = 0.07
+Time in years = 0.25
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 0
+Discount or Bank Discount or Interest = 0
+Discount Rate = 7
+Time in Days = 90
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 1298
+Proceed = 1275.285
+Discount or Bank Discount or Interest = 22.715
+Discount Rate = 0.07
+Time in years = 0.25
+----------------------------------------------------------------------
+
