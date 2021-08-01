@@ -8,7 +8,7 @@ You can check the documentation on how to use it.
 
 # Developers:
 - Project Leader: CATACUTAN, ZIAN JOLO M.
-- Members: 
+Members: 
 - PASCUAL, STEVEN ROD C.
 - CABUHAT, LAURENT SJ
 - VENERACION, JOHN ELBERT C.
