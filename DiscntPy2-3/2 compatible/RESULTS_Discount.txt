@@ -1,0 +1,437 @@
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
+Computation 1
+----------------------------------------------------------------------
+> INPUTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 0.0
+Proceed = 1970.0
+Time in Months = 90.0
+Discount or Bank Discount or Interest = 0.0
+Discount Rate = 6.0
+----------------------------------------------------------------------
+> RESULTS
+----------------------------------------------------------------------
+Amount or Maturity Value or Face Value = 3581.8182
+Proceed = 1970.0
+Time in years = 7.5
+Discount or Bank Discount or Interest = 1611.8182
+Discount Rate = 0.06
+----------------------------------------------------------------------
+
